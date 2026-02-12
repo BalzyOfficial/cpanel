@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "create-panel.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "routes": [
+    {
+      "src": "/create-panel",
+      "dest": "/create-panel.js"
+    }
+  ]
+}
